@@ -1,0 +1,1346 @@
+[
+  {
+    "id": 1,
+    "slot_number": "A1",
+    "polygon": [
+      [
+        14,
+        909
+      ],
+      [
+        68,
+        909
+      ],
+      [
+        68,
+        1018
+      ],
+      [
+        14,
+        1018
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 2,
+    "slot_number": "A3",
+    "polygon": [
+      [
+        68,
+        909
+      ],
+      [
+        123,
+        909
+      ],
+      [
+        123,
+        1018
+      ],
+      [
+        68,
+        1018
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 3,
+    "slot_number": "A3",
+    "polygon": [
+      [
+        134,
+        913
+      ],
+      [
+        272,
+        913
+      ],
+      [
+        272,
+        1012
+      ],
+      [
+        134,
+        1012
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 4,
+    "slot_number": "A5",
+    "polygon": [
+      [
+        272,
+        913
+      ],
+      [
+        410,
+        913
+      ],
+      [
+        410,
+        1012
+      ],
+      [
+        272,
+        1012
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 5,
+    "slot_number": "A5",
+    "polygon": [
+      [
+        412,
+        927
+      ],
+      [
+        551,
+        927
+      ],
+      [
+        551,
+        1029
+      ],
+      [
+        412,
+        1029
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 6,
+    "slot_number": "A7",
+    "polygon": [
+      [
+        551,
+        927
+      ],
+      [
+        690,
+        927
+      ],
+      [
+        690,
+        1029
+      ],
+      [
+        551,
+        1029
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 7,
+    "slot_number": "A7",
+    "polygon": [
+      [
+        690,
+        933
+      ],
+      [
+        874,
+        933
+      ],
+      [
+        874,
+        1029
+      ],
+      [
+        690,
+        1029
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 8,
+    "slot_number": "A9",
+    "polygon": [
+      [
+        874,
+        933
+      ],
+      [
+        1058,
+        933
+      ],
+      [
+        1058,
+        1029
+      ],
+      [
+        874,
+        1029
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 9,
+    "slot_number": "A9",
+    "polygon": [
+      [
+        1060,
+        933
+      ],
+      [
+        1164,
+        933
+      ],
+      [
+        1164,
+        1025
+      ],
+      [
+        1060,
+        1025
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 10,
+    "slot_number": "B1",
+    "polygon": [
+      [
+        1164,
+        933
+      ],
+      [
+        1268,
+        933
+      ],
+      [
+        1268,
+        1025
+      ],
+      [
+        1164,
+        1025
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 11,
+    "slot_number": "B1",
+    "polygon": [
+      [
+        1272,
+        940
+      ],
+      [
+        1407,
+        940
+      ],
+      [
+        1407,
+        1029
+      ],
+      [
+        1272,
+        1029
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 12,
+    "slot_number": "B3",
+    "polygon": [
+      [
+        1407,
+        940
+      ],
+      [
+        1542,
+        940
+      ],
+      [
+        1542,
+        1029
+      ],
+      [
+        1407,
+        1029
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 13,
+    "slot_number": "B3",
+    "polygon": [
+      [
+        1531,
+        898
+      ],
+      [
+        1724,
+        898
+      ],
+      [
+        1724,
+        1038
+      ],
+      [
+        1531,
+        1038
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 14,
+    "slot_number": "B5",
+    "polygon": [
+      [
+        1724,
+        898
+      ],
+      [
+        1918,
+        898
+      ],
+      [
+        1918,
+        1038
+      ],
+      [
+        1724,
+        1038
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 15,
+    "slot_number": "B5",
+    "polygon": [
+      [
+        7,
+        574
+      ],
+      [
+        84,
+        574
+      ],
+      [
+        84,
+        624
+      ],
+      [
+        7,
+        624
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 16,
+    "slot_number": "B7",
+    "polygon": [
+      [
+        7,
+        624
+      ],
+      [
+        84,
+        624
+      ],
+      [
+        84,
+        674
+      ],
+      [
+        7,
+        674
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 17,
+    "slot_number": "B9",
+    "polygon": [
+      [
+        7,
+        674
+      ],
+      [
+        84,
+        674
+      ],
+      [
+        84,
+        724
+      ],
+      [
+        7,
+        724
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 18,
+    "slot_number": "C1",
+    "polygon": [
+      [
+        7,
+        724
+      ],
+      [
+        84,
+        724
+      ],
+      [
+        84,
+        774
+      ],
+      [
+        7,
+        774
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 19,
+    "slot_number": "C3",
+    "polygon": [
+      [
+        7,
+        774
+      ],
+      [
+        84,
+        774
+      ],
+      [
+        84,
+        824
+      ],
+      [
+        7,
+        824
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 20,
+    "slot_number": "B10",
+    "polygon": [
+      [
+        237,
+        611
+      ],
+      [
+        410,
+        611
+      ],
+      [
+        410,
+        639
+      ],
+      [
+        237,
+        639
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 21,
+    "slot_number": "C2",
+    "polygon": [
+      [
+        237,
+        639
+      ],
+      [
+        410,
+        639
+      ],
+      [
+        410,
+        668
+      ],
+      [
+        237,
+        668
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 22,
+    "slot_number": "C4",
+    "polygon": [
+      [
+        237,
+        668
+      ],
+      [
+        410,
+        668
+      ],
+      [
+        410,
+        696
+      ],
+      [
+        237,
+        696
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 23,
+    "slot_number": "C6",
+    "polygon": [
+      [
+        237,
+        696
+      ],
+      [
+        410,
+        696
+      ],
+      [
+        410,
+        724
+      ],
+      [
+        237,
+        724
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 24,
+    "slot_number": "C8",
+    "polygon": [
+      [
+        237,
+        724
+      ],
+      [
+        410,
+        724
+      ],
+      [
+        410,
+        752
+      ],
+      [
+        237,
+        752
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 25,
+    "slot_number": "C10",
+    "polygon": [
+      [
+        237,
+        752
+      ],
+      [
+        410,
+        752
+      ],
+      [
+        410,
+        781
+      ],
+      [
+        237,
+        781
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 26,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        237,
+        781
+      ],
+      [
+        410,
+        781
+      ],
+      [
+        410,
+        809
+      ],
+      [
+        237,
+        809
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 27,
+    "slot_number": "D4",
+    "polygon": [
+      [
+        237,
+        809
+      ],
+      [
+        410,
+        809
+      ],
+      [
+        410,
+        837
+      ],
+      [
+        237,
+        837
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 28,
+    "slot_number": "D6",
+    "polygon": [
+      [
+        237,
+        837
+      ],
+      [
+        410,
+        837
+      ],
+      [
+        410,
+        865
+      ],
+      [
+        237,
+        865
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 29,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        729,
+        649
+      ],
+      [
+        1312,
+        649
+      ],
+      [
+        1312,
+        862
+      ],
+      [
+        729,
+        862
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 30,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        762,
+        657
+      ],
+      [
+        819,
+        657
+      ],
+      [
+        819,
+        849
+      ],
+      [
+        762,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 31,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        819,
+        657
+      ],
+      [
+        877,
+        657
+      ],
+      [
+        877,
+        849
+      ],
+      [
+        819,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 32,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        877,
+        657
+      ],
+      [
+        934,
+        657
+      ],
+      [
+        934,
+        849
+      ],
+      [
+        877,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 33,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        934,
+        657
+      ],
+      [
+        991,
+        657
+      ],
+      [
+        991,
+        849
+      ],
+      [
+        934,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 34,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        991,
+        657
+      ],
+      [
+        1048,
+        657
+      ],
+      [
+        1048,
+        849
+      ],
+      [
+        991,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 35,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        1048,
+        657
+      ],
+      [
+        1105,
+        657
+      ],
+      [
+        1105,
+        849
+      ],
+      [
+        1048,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 36,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        1105,
+        657
+      ],
+      [
+        1162,
+        657
+      ],
+      [
+        1162,
+        849
+      ],
+      [
+        1105,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 37,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        1162,
+        657
+      ],
+      [
+        1220,
+        657
+      ],
+      [
+        1220,
+        849
+      ],
+      [
+        1162,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 38,
+    "slot_number": "D2",
+    "polygon": [
+      [
+        1220,
+        657
+      ],
+      [
+        1277,
+        657
+      ],
+      [
+        1277,
+        849
+      ],
+      [
+        1220,
+        849
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 39,
+    "slot_number": "D9",
+    "polygon": [
+      [
+        1349,
+        676
+      ],
+      [
+        1410,
+        676
+      ],
+      [
+        1410,
+        808
+      ],
+      [
+        1349,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 40,
+    "slot_number": "E1",
+    "polygon": [
+      [
+        1410,
+        676
+      ],
+      [
+        1471,
+        676
+      ],
+      [
+        1471,
+        808
+      ],
+      [
+        1410,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 41,
+    "slot_number": "E3",
+    "polygon": [
+      [
+        1471,
+        676
+      ],
+      [
+        1532,
+        676
+      ],
+      [
+        1532,
+        808
+      ],
+      [
+        1471,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 42,
+    "slot_number": "E5",
+    "polygon": [
+      [
+        1532,
+        676
+      ],
+      [
+        1593,
+        676
+      ],
+      [
+        1593,
+        808
+      ],
+      [
+        1532,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 43,
+    "slot_number": "E7",
+    "polygon": [
+      [
+        1593,
+        676
+      ],
+      [
+        1654,
+        676
+      ],
+      [
+        1654,
+        808
+      ],
+      [
+        1593,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 44,
+    "slot_number": "E9",
+    "polygon": [
+      [
+        1654,
+        676
+      ],
+      [
+        1715,
+        676
+      ],
+      [
+        1715,
+        808
+      ],
+      [
+        1654,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 45,
+    "slot_number": "F1",
+    "polygon": [
+      [
+        1715,
+        676
+      ],
+      [
+        1776,
+        676
+      ],
+      [
+        1776,
+        808
+      ],
+      [
+        1715,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 46,
+    "slot_number": "F3",
+    "polygon": [
+      [
+        1776,
+        676
+      ],
+      [
+        1837,
+        676
+      ],
+      [
+        1837,
+        808
+      ],
+      [
+        1776,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 47,
+    "slot_number": "F5",
+    "polygon": [
+      [
+        1837,
+        676
+      ],
+      [
+        1899,
+        676
+      ],
+      [
+        1899,
+        808
+      ],
+      [
+        1837,
+        808
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 48,
+    "slot_number": "E8",
+    "polygon": [
+      [
+        141,
+        550
+      ],
+      [
+        218,
+        550
+      ],
+      [
+        218,
+        589
+      ],
+      [
+        141,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 49,
+    "slot_number": "E10",
+    "polygon": [
+      [
+        218,
+        550
+      ],
+      [
+        296,
+        550
+      ],
+      [
+        296,
+        589
+      ],
+      [
+        218,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 50,
+    "slot_number": "F2",
+    "polygon": [
+      [
+        296,
+        550
+      ],
+      [
+        374,
+        550
+      ],
+      [
+        374,
+        589
+      ],
+      [
+        296,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 51,
+    "slot_number": "F4",
+    "polygon": [
+      [
+        374,
+        550
+      ],
+      [
+        452,
+        550
+      ],
+      [
+        452,
+        589
+      ],
+      [
+        374,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 52,
+    "slot_number": "F6",
+    "polygon": [
+      [
+        452,
+        550
+      ],
+      [
+        530,
+        550
+      ],
+      [
+        530,
+        589
+      ],
+      [
+        452,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 53,
+    "slot_number": "F8",
+    "polygon": [
+      [
+        530,
+        550
+      ],
+      [
+        608,
+        550
+      ],
+      [
+        608,
+        589
+      ],
+      [
+        530,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 54,
+    "slot_number": "F10",
+    "polygon": [
+      [
+        608,
+        550
+      ],
+      [
+        685,
+        550
+      ],
+      [
+        685,
+        589
+      ],
+      [
+        608,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 55,
+    "slot_number": "G2",
+    "polygon": [
+      [
+        685,
+        550
+      ],
+      [
+        763,
+        550
+      ],
+      [
+        763,
+        589
+      ],
+      [
+        685,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  },
+  {
+    "id": 56,
+    "slot_number": "G4",
+    "polygon": [
+      [
+        763,
+        550
+      ],
+      [
+        841,
+        550
+      ],
+      [
+        841,
+        589
+      ],
+      [
+        763,
+        589
+      ]
+    ],
+    "slot_type": "regular",
+    "hourly_rate": 50.0
+  }
+]
