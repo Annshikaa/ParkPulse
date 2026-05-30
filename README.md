@@ -282,25 +282,30 @@ Dashboard Refresh
 
 ## Live Monitoring Dashboard
 
-![Dashboard](assets/dashboard.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/f864011b-4435-4c85-a177-38f5f2bd168d" />
+
 
 ---
 
 ## AI Vehicle Detection
 
-![Detection](assets/detection.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/de418d41-bad0-421a-b9f3-d78bb426856a" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c4be9476-c4f6-47c2-922a-07cf20c10551" />
+
 
 ---
 
 ## Slot Editor
 
-![Slot Editor](assets/slot-editor.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/59f969aa-baa1-4480-8400-26ab571728a0" />
+
 
 ---
 
 ## Analytics Dashboard
 
-![Analytics](assets/analytics.png)
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/461b0dec-3763-4504-ae36-6e2d1d422d83" />
+
 
 ---
 
