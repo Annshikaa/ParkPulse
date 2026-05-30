@@ -174,15 +174,6 @@ ParkPulse is designed for:
 
 ---
 
-## 💳 Payment Integration
-
-- Razorpay integration
-- Secure transactions
-- Demo payment mode
-- Actual dwell-time billing
-- Automated billing calculations
-
----
 
 ## 📊 Analytics Dashboard
 
@@ -341,7 +332,7 @@ Dashboard Refresh
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/park-pulse.git
+git clone https://github.com/Annshikaa/park-pulse.git
 
 cd park-pulse
 ```
